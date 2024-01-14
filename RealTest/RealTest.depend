@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704550683 source:d:\codeblocks projects\sfsd 01\b-trees manipulations\realtest\main.c
+	<stdio.h>
+	<stdlib.h>
+
